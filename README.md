@@ -2,7 +2,7 @@
 
 My name is Chris. I'm Full-Stack Developer.   
 Looking for possibilities to efficiently work and learn.  
-Hard-worker focused on details and meeting deadlines.
+Hard-worker focused on effective delivery of solutions.
 
 
 ## 💻 Tech Stack:
